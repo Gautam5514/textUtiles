@@ -47,7 +47,7 @@ function App() {
       
     
       <TextForm showAlert={showAlert} heading="Enter the text to anylize below" mode={mode} />
-      <About />
+      <About  mode={mode} />
       
   </div> 
   
