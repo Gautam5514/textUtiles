@@ -39,36 +39,36 @@ export default function About(props) {
   <div className="accordion-item">
     <h2 className="accordion-header">
       <button className="accordion-button" type="button" style={myStyle} data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        <strong>Analyze your text</strong>
+        <strong>Tu kon </strong>
       </button>
     </h2>
     <div id="collapseOne" className="accordion-collapse collapse show" data-bs-parent="#accordionExample">
       <div className="accordion-body" style={myStyle}>
-        <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classNamees that we use to style each element. These classNamees control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        <strong>SBSE PAHLA KAAM</strong> Ha to ate hain Apna baat pe ..... Pahli baat to jo tum tiktam tiktam chalti ho Mana a teri high heels ki galti ... A to bata tu hai kon kaha se ayi ho kaha ko jayegi mujhe marawayegi  Pagal banweyegi
       </div>
     </div>
   </div>
   <div className="accordion-item">
     <h2 className="accordion-header">
       <button className="accordion-button collapsed" type="button" style={myStyle} data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-        <strong>Free to use</strong>
+        <strong>Karte hain</strong>
       </button>
     </h2>
     <div id="collapseTwo" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div className="accordion-body" style={myStyle}>
-        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classNamees that we use to style each element. These classNamees control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        <strong>To bina late kiye.</strong> Ha to chalte hai bina koi bakwash kiye apni baat pe Mere bare mai janne se koi fayda nhi.. bas Mazza kro or Chill maro yrr
       </div>
     </div>
   </div>
   <div className="accordion-item">
     <h2 className="accordion-header">
       <button className="accordion-button collapsed" type="button" style={myStyle} data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-        <strong>Browser Compactable</strong>
+        <strong>Khatam</strong>
       </button>
     </h2>
     <div id="collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div className="accordion-body" style={myStyle}>
-        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classNamees that we use to style each element. These classNamees control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        <strong>This is the last.</strong> Ha to Kya .....Sun raha hai na Sun rhi hu mai 
       </div>
     </div>
   </div>
