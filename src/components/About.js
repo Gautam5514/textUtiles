@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React, { useState } from 'react'
 
 export default function About(props) {
 
@@ -39,36 +39,36 @@ export default function About(props) {
   <div className="accordion-item">
     <h2 className="accordion-header">
       <button className="accordion-button" type="button" style={myStyle} data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        <strong>Tu kon </strong>
+        <strong>Show Info </strong>
       </button>
     </h2>
     <div id="collapseOne" className="accordion-collapse collapse show" data-bs-parent="#accordionExample">
       <div className="accordion-body" style={myStyle}>
-        <strong>SBSE PAHLA KAAM</strong> Ha to ate hain Apna baat pe ..... Pahli baat to jo tum tiktam tiktam chalti ho Mana a teri high heels ki galti ... A to bata tu hai kon kaha se ayi ho kaha ko jayegi mujhe marawayegi  Pagal banweyegi
+        <strong>What is it?</strong> It help when you write the message and mail in any of the other people.
       </div>
     </div>
   </div>
   <div className="accordion-item">
     <h2 className="accordion-header">
       <button className="accordion-button collapsed" type="button" style={myStyle} data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-        <strong>Karte hain</strong>
+        <strong>Help ?</strong>
       </button>
     </h2>
     <div id="collapseTwo" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div className="accordion-body" style={myStyle}>
-        <strong>To bina late kiye.</strong> Ha to chalte hai bina koi bakwash kiye apni baat pe Mere bare mai janne se koi fayda nhi.. bas Mazza kro or Chill maro yrr
+        <strong>To Customize your Format</strong> If you send the message of any people who has need to write any thing in under of word.
       </div>
     </div>
   </div>
   <div className="accordion-item">
     <h2 className="accordion-header">
       <button className="accordion-button collapsed" type="button" style={myStyle} data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-        <strong>Khatam</strong>
+        <strong>Need ?</strong>
       </button>
     </h2>
     <div id="collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div className="accordion-body" style={myStyle}>
-        <strong>This is the last.</strong> Ha to Kya .....Sun raha hai na Sun rhi hu mai 
+        <strong>Writing Important messages</strong> You want to test how much time to take for the writing
       </div>
     </div>
   </div>
